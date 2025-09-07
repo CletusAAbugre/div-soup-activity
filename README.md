@@ -16,5 +16,4 @@ I refactored the original `index.html` file into a semantic version named ;index
 Files Included
 index.semantic.html  the refactored semantic HTML file  
 
- How to View
-Open index.semantic.html in any web browser to see the semantic version of the page.  
+   
